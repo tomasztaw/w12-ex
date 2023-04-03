@@ -4,6 +4,8 @@ public class Kot extends Zwierzak {
 
     // do komitu 1
 
+    // feat-3
+
     private String milk;
 
     public Kot(String milk) {

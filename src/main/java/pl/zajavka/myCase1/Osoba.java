@@ -1,5 +1,5 @@
 package pl.zajavka.myCase1;
 
-public record Osoba() {
+public record Osoba(String imie) {
 
 }

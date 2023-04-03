@@ -1,5 +1,8 @@
 package pl.zajavka.myCase1;
 
 public class Pies extends Zwierzak {
-    private String name;
+    @Override
+    protected String whatIsYourName() {
+        return "My name is Dog";
+    }
 }
